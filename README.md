@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Aditya Kanoi Banner](https://github.com/ManuelYanceyan/New-era/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 <h1 align="center">HOLA👉  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  👈Soy Manuel Quincho</h1>
 
