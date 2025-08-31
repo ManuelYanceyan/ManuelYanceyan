@@ -1,16 +1,16 @@
-## Hi there 👋
+![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<!--
-**ManuelYanceyan/ManuelYanceyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">HOLA👉  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  👈Soy Manuel Quincho</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏻‍💻 Un poco sobre mi 
+
+👨‍💻 &nbsp;Actualmente soy un estudiante del Noveno semenstre de la faculta de Ingenieria de Sistemas UNCP.\
+💡 &nbsp;Este portafolio es para la revisión de los aprendizajes que ire adquiriendo en este semestre.\
+🎓 &nbsp;El nombre del curso es"DESARROLLO DE APLICACIONES WEB" .\
+🌱 &nbsp;El catedratico acargo de la asignaruta es Mg. JAIME SUASNABAR TERREL .\
+✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+
