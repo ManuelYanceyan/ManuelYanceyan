@@ -42,7 +42,9 @@
 💡 &nbsp;Este portafolio es para la revisión de los aprendizajes que ire adquiriendo en este semestre.\
 🎓 &nbsp;El nombre del curso es"DESARROLLO DE APLICACIONES WEB" .\
 🌱 &nbsp;El catedratico acargo de la asignaruta es Mg. JAIME SUASNABAR TERREL .\
-✍️ &nbsp;Leere tus recomendaciones si me escribes a mi [Gmail](mailto:manueldendi@gmail.com){:target="_blank"}.
+✍️ &nbsp;Leere tus recomendaciones si me escribes a mi 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manueldendi@gmail.com" target="_blank">Gmail</a>.
+
 
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
