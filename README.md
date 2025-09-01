@@ -42,7 +42,8 @@
 💡 &nbsp;Este portafolio es para la revisión de los aprendizajes que ire adquiriendo en este semestre.\
 🎓 &nbsp;El nombre del curso es"DESARROLLO DE APLICACIONES WEB" .\
 🌱 &nbsp;El catedratico acargo de la asignaruta es Mg. JAIME SUASNABAR TERREL .\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;Leere tus recomendaciones si me escrives a mi ✍️ &nbsp;Leere tus recomendaciones si me escribes a mi 
+<a href="mailto:manueldendi@gmail.com" target="_blank">Gmail</a>.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
