@@ -1,56 +1,66 @@
-![Aditya Kanoi Banner](https://github.com/ManuelYanceyan/New-era/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
+# Manuel Yanceyan Quincho Ayala
 
-<h1 align="center">HOLA👉  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  👈Soy Manuel Quincho</h1>
+**Egresado de Ingeniería de Sistemas — Universidad Nacional del Centro del Perú (UNCP)**  
+Bachiller en trámite
 
-<hr>
+Python · SQL · Data Analytics · Business Intelligence · Desarrollo web
 
+---
 
+## Perfil profesional
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+Egresado de Ingeniería de Sistemas con interés en el análisis de datos, la
+automatización de procesos y el desarrollo de soluciones web. Cuento con
+experiencia preprofesional en desarrollo web y operaciones comerciales, y he
+obtenido dos primeros puestos en proyectos universitarios de innovación y
+tecnología.
 
-<hr>
+Busco aplicar Python, SQL y visualización de datos para convertir información en
+indicadores útiles para la toma de decisiones. Mantengo un enfoque práctico:
+documentar el trabajo, validar los resultados con pruebas y presentar proyectos
+reproducibles.
 
+## Tecnologías principales
 
-### 👨🏻‍💻 Un poco sobre mi 
+- **Lenguajes:** Python, SQL, HTML, CSS, JavaScript
+- **Análisis de datos:** pandas, matplotlib, métricas KPI y visualización
+- **Bases de datos:** SQLite, modelado relacional y consultas analíticas
+- **Calidad y herramientas:** pytest, Git, GitHub y documentación técnica
+- **Intereses:** Data Analytics, Business Intelligence y desarrollo web
 
-👨‍💻 &nbsp;Actualmente soy un estudiante del Noveno semenstre de la faculta de Ingenieria de Sistemas UNCP.\
-💡 &nbsp;Este portafolio es para la revisión de los aprendizajes que ire adquiriendo en este semestre.\
-🎓 &nbsp;El nombre del curso es"DESARROLLO DE APLICACIONES WEB" .\
-🌱 &nbsp;El catedratico acargo de la asignaruta es Mg. JAIME SUASNABAR TERREL .\
-✍️ &nbsp;Leere tus recomendaciones si me escribes a mi 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manueldendi@gmail.com" target="_blank">Gmail</a>.
+## Proyectos destacados
 
+### SQL Sales Analytics
 
-## contactame  ☕ :
+Proyecto de análisis de ventas con datos sintéticos, base de datos SQLite y
+consultas SQL para responder preguntas de negocio: ingresos mensuales, productos
+más vendidos, margen por categoría, segmentos de clientes, rendimiento de
+vendedores, crecimiento mes a mes, cuartiles de clientes y desempeño regional.
 
-<br>
+**Stack:** Python · SQLite · SQL · pandas · pytest
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](www.linkedin.com/in/manuel-yanceyan-quincho-ayala-a092a3235/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+Repositorio:  
+https://github.com/ManuelYanceyan/sql-sales-analytics
 
-<br>
+### IT Helpdesk SLA Analytics
 
+Proyecto de análisis de tickets de soporte TI con datos sintéticos. Calcula
+tiempos de primera respuesta y resolución, cumplimiento de SLA por prioridad y
+categoría, backlog, tasa de reapertura y satisfacción (CSAT), y genera reportes
+y gráficos con matplotlib.
+
+**Stack:** Python · pandas · matplotlib · pytest
+
+Repositorio:  
+https://github.com/ManuelYanceyan/helpdesk-sla-analytics
+
+## Formación y logros
+
+- Egresado de Ingeniería de Sistemas, Universidad Nacional del Centro del Perú (UNCP).
+- Grado de Bachiller en trámite.
+- Dos primeros puestos en proyectos universitarios de innovación y tecnología.
+
+## Contacto profesional
+
+- GitHub: [github.com/ManuelYanceyan](https://github.com/ManuelYanceyan)
+- LinkedIn: [Manuel Yanceyan Quincho Ayala](https://www.linkedin.com/in/manuel-yanceyan-quincho-ayala-a092a3235/)
